@@ -1,4 +1,4 @@
-package com.yuwuda.pertemuan2;
+package com.pertemuan2.pertemuan2;
 
 import android.content.Context;
 
